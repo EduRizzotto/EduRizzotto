@@ -1,5 +1,5 @@
 <div align="center">
-  <h1>Olá! Eu sou o Eduardo Rizzotto 👋</h1>
+  <h1>Olá! Eu sou o Eduardo Rizzotto</h1>
   <p><strong>Estudante de Ciência da Computação | Desenvolvedor em formação</strong></p>
 
   <!-- Links de Contato / Redes -->
@@ -15,7 +15,7 @@
 
 ---
 
-### 🚀 Sobre mim
+### Sobre mim
 
 - 🎓 Cursando **Ciência da Computação**
 - 💻 Desenvolvendo projetos em **Python (com Pandas), Bancos de Dados (SQL)**, **C** e estruturação web básica **(HTML, CSS)**
@@ -24,7 +24,7 @@
 
 ---
 
-### 🛠️ Tecnologias e Ferramentas
+### Tecnologias e Ferramentas
 
 <div align="center">
   <img src="https://skillicons.dev/icons?i=c,html,css,python,mysql,sqlite,git,github,arduino,linux,vscode&perline=11" alt="Tech Stack" />
@@ -34,7 +34,7 @@
 
 ---
 
-### 📊 Estatísticas no GitHub
+### Estatísticas no GitHub
 
 <div align="center">
   <img height="165em" src="https://github.readme-stats.vercel.app/api?username=EduRizzotto&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117&locale=pt-br" alt="GitHub Stats" />
