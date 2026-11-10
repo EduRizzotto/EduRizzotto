@@ -18,7 +18,7 @@
 ### Sobre mim
 
 - 🎓 Cursando **Ciência da Computação**
-- 💻 Desenvolvendo projetos em **Python (com Pandas), Bancos de Dados (SQL)**, **C** e estruturação web básica **(HTML, CSS)**
+- 💻 Desenvolvendo projetos em **Python, C++ (esp32 / arduino),  Bancos de Dados (SQL)**, **C** e estruturação web básica **(HTML, CSS)**
 - 🤖 Interesse prático em **Hardware, Sistemas Embarcados, Automação e IoT (ESP32)**
 - 🌱 Sempre buscando aprender novas arquiteturas, boas práticas de código e ferramentas modernas
 
